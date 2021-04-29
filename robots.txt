@@ -2,5 +2,4 @@
 
 User-agent: *
 Disallow: /
-
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+Sitemap: https://lnbrousseau.github.io/isu-portfolio/sitemap.xml
